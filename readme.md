@@ -75,7 +75,7 @@ end
 
 - Alias: `loveFFT:tell()` = `loveFFT:getPlayPosition()`
 - Alias: `loveFFT:destroy()` = `loveFFT:release()`
-- Alias: `loveFFT:tell()` = `loveFFT:getPlayPosition()`
+- Alias: `loveFFT:pop()` = `loveFFT:get()`
 
 ## Notes
 
