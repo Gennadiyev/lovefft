@@ -2,7 +2,9 @@
 
 ![love2d>11.0](https://img.shields.io/badge/L%C3%96VE-%3E11.0-yellowgreen)
 
-Welcome to LÖVE FFT! This is a simple FFT module for audio visualizer, rhythm games, and all your other needs against FFT. It is powered by [Lua FFT](https://github.com/h4rm/luafft).
+This is a simple FFT module for audio visualizer, rhythm games, and all your other needs against FFT. It is powered by [Lua FFT](https://github.com/h4rm/luafft).
+
+> Attribution is appreciated but not required.
 
 ![showcase.gif](https://s2.loli.net/2022/07/17/uyfUXFL7VOvW8c1.gif)
 
